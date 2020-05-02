@@ -1,107 +1,141 @@
 <template>
-    <div class="row row-cols-1 row-cols-md-3">
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/nike1.PNG" class="card-img-top" alt="nikeOne">
-                <div class="card-body">
-                    <h5 class="card-title">Nike Lebron 17 Low “Tune Squad”</h5>
-                    <p class="card-text">$300</p>
+<div class="col-lg-15 page-title">BASKETBALL SHOES
+
+        <div class="col-lg-15 page-sub-title">Nike</div>
+
+        <div class="row row-cols-1 row-cols-md-3">
+            <div class="col mb-6">
+                <div class="card">
+                    <img src="image/nike1.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Nike Lebron 17 James Gang</h5>
+                        <p class="card-text">$310</p>
+
+                    </div>
+                    <div class="card-footer">
+
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <br>
+            <br>
 
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/nike2.PNG" class="card-img-top" alt="nikeTwo">
-                <div class="card-body">
-                    <h5 class="card-title">Nike Lebron 7 “Fairfax”</h5>
-                    <p class="card-text">$300</p>
+            <div class="col mb-6">
+                <div class="card">
+                    <img src="image/nike2.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Nike Kobe 9 High KRM EXT QS Red October</h5>
+                        <p class="card-text">$350</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <br>
+            <br>
 
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/nike3.PNG" class="card-img-top" alt="nikeThree">
-                <div class="card-body">
-                    <h5 class="card-title">Nike Kyrie 6 EP “CNY”</h5>
-                    <p class="card-text">$300</p>
+            <div class="col mb-6">
+                <div class="card">
+                    <img src="image/nike3.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Nike Kyrie 6 Enlightenment</h5>
+                        <p class="card-text">$210</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <br>
+            <br>
 
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/adidas1.PNG" class="card-img-top" alt="adidasOne">
-                <div class="card-body">
-                    <h5 class="card-title">Adidas D Rose 10 “Core Black/Scarlet”</h5>
-                    <p class="card-text">$300</p>
+            <div class="col mb-6">
+                <div class="card">
+                    <img src="image/nike4.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Nike Paul George 3 Mamba Mentality</h5>
+                        <p class="card-text">$190</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/adidas2.PNG" class="card-img-top" alt="adidasTwo">
-                <div class="card-body">
-                    <h5 class="card-title">Adidas Harden Vol. 4 “Veteran’s Day”</h5>
-                    <p class="card-text">$300</p>
+            <div class="col mb-6">
+                <div class="card">
+                    <img src="image/nike5.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Nike Zoom KD 12 Black Cement</h5>
+                        <p class="card-text">$240</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/adidas3.PNG" class="card-img-top" alt="adidasThree">
-                <div class="card-body">
-                    <h5 class="card-title">Adidas ZoneBoost “Core Black”</h5>
-                    <p class="card-text">$300</p>
+            <div class="col mb-6">
+                <div class="card">
+                    <img src="image/nike5.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Nike Zoom KD 12 Black Cement</h5>
+                        <p class="card-text">$240</p>
+                    </div>
                 </div>
             </div>
+
         </div>
 
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/ua1.PNG" class="card-img-top" alt="uaOne">
-                <div class="card-body">
-                    <h5 class="card-title">Under Armour Curry 7 “Dub Nation”</h5>
-                    <p class="card-text">$300</p>
+            <div class="col-lg-15 page-title">Adidas</div>
+
+        <div class="row row-cols-1 row-cols-md-3">
+
+            <div class="col mb-3">
+                <div class="card">
+                    <img src="image/adidas1.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Adidas Harden Vol. 2 Maroon</h5>
+                        <p class="card-text">$270</p>
+                    </div>
                 </div>
             </div>
+
+            <div class="col mb-3">
+                <div class="card">
+                    <img src="image/adidas2.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Adidas D Rose 7 Primeknit Solid Grey</h5>
+                        <p class="card-text">$260</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-3">
+                <div class="card">
+                    <img src="image/adidas3.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Adidas Crazy Explosive Primeknit Andrew Wiggins PE Timberwolves Away</h5>
+                        <p class="card-text">$260</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/ua2.PNG" class="card-img-top" alt="uaOTwo">
-                <div class="card-body">
-                    <h5 class="card-title">Under Armour HOVR Havox 2 “Red/Glow Orange”</h5>
-                    <p class="card-text">$300</p>
+            <div class="col-lg-15 page-title">New Balance</div>
+
+        <div class="row row-cols-1 row-cols-md-3">
+
+            <div class="col mb-1">
+                <div class="card">
+                    <img src="image/nb1.PNG" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">New Balance OMN1A Sunset Pack Kawhi Leonard</h5>
+                        <p class="card-text">$240</p>
+                    </div>
                 </div>
             </div>
+
         </div>
 
-        <div class="col mb-9">
-            <div class="card">
-                <img src="image/ua3.PNG" class="card-img-top" alt="uaThree">
-                <div class="card-body">
-                    <h5 class="card-title">Under Armour Curry 7 “Dub Nation”</h5>
-                    <p class="card-text">$300</p>
-                </div>
-            </div>
-        </div>
-    </div>
+</div>
+
 </template>
 
 
 <script>
 export default {
+    name: 'Basketball',
 
 }
 </script>
@@ -109,14 +143,43 @@ export default {
 
 <style scoped>
 
-.card {
-    width: auto;
-    height: auto;
-    padding: 10px;
-    margin: 10px;
+.page-title {
+
+    color: black;
+    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-size: 45px;
+    padding: 20px;
+    text-align: left;
+
+
+}
+
+.page-sub-title {
+
+    color: black;
+    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-size: 25px;
+    padding: 20px;
+    text-align: left;
+
+
 }
 
 
+.card {
+    width: auto;
+    height: 60vh;
+    padding: 10px;
+    margin: 10px;
 
+}
+
+
+p {
+
+    color: black;
+    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-size: 10px;
+}
 
 </style>

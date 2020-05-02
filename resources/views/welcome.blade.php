@@ -29,7 +29,7 @@
         <script src="{{ asset('js/app.js')}}"></script>
         <script>
             AOS.init();
-          </script>
+        </script>
 
     </body>
 </html>

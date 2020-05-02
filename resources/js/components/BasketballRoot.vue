@@ -1,7 +1,7 @@
 <template>
   <div id='app' >
     <Header />
-    <Body />
+    <Basketball />
     <Footer />
 
 
@@ -11,17 +11,17 @@
 <script>
 
 import Header from '../components/Header.vue'
-import Body from '../components/Body.vue'
+import Basketball from '../components/Basketball.vue'
 import Footer from '../components/Footer.vue'
 
 
 
 
 export default {
-  name: 'Root',
+  name: 'BasketballRoot',
   components: {
     Header,
-    Body,
+    Basketball,
     Footer,
 
 
@@ -33,13 +33,3 @@ export default {
 }
 </script>
 
-<style>
-/* #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color:black;
-
-} */
-</style>
