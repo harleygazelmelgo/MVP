@@ -1,6 +1,6 @@
 <template>
 <div class="block">
-    <img src="image/HOME3.jpg" style="margin-top: 10px; background-size: cover; background-position: center top; width: 100%; height:100%; opacity: 1">
+    <img src="image/about.png" style="margin-top: 10px; background-size: cover; background-position: center top; width: 100%; height:100%; opacity: 1">
 
     <hr>
         <div id="about" class="cms-page-static">
@@ -44,7 +44,7 @@ export default {
 .cms-page-static {
     border: 2px solid black;
     display: table;
-    height: auto;
+    height: 80%;
     margin: 50px auto 200px;
     position: relative;
     text-align: justify;

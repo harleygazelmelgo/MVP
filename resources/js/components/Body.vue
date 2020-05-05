@@ -7,13 +7,13 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="image/HOME1.jpg" class="d-block w-100 h-100" alt />
-      </div>
-      <div class="carousel-item">
-        <img src="image/HOME2.jpg" class="d-block w-100 h-100" alt />
+        <img src="image/HOME5.jpg" class="d-block w-100 h-100" alt />
       </div>
       <div class="carousel-item">
         <img src="image/HOME3.jpg" class="d-block w-100 h-100" alt />
+      </div>
+      <div class="carousel-item">
+        <img src="image/HOME1.jpg" class="d-block w-100 h-100" alt />
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">

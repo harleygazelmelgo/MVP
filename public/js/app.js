@@ -2129,6 +2129,43 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: 'Basketball'
 });
@@ -2235,8 +2272,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: 'Footer'
 });
@@ -2300,6 +2335,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: 'Header'
 });
@@ -2315,6 +2353,30 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -7018,7 +7080,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.cms-page-static[data-v-19b32af0] {\n    border: 2px solid black;\n    display: table;\n    height: auto;\n    margin: 50px auto 200px;\n    position: relative;\n    text-align: justify;\n    width: 90%;\n}\n.cms-page-static .page-title[data-v-19b32af0] {\n    background-color: black;\n    color: white;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 45px;\n    padding: 20px;\n    text-align: left;\n    text-transform: uppercase;\n}\n.cms-page-static .block-wrapper[data-v-19b32af0] {\n    display: block;\n    position: relative;\n    min-height: 1px;\n    padding: 25px;\n    float: left;\n    text-align: justify;\n}\n.cms-page-static .block-wrapper .block-content[data-v-19b32af0]{\n    padding: 15px 0;\n    font-size: 25px;\n    text-align: justify;\n}\n.about-follow-container[data-v-19b32af0] {\n    display: block;\n    padding-bottom: 5%;\n    padding-top: 12%;\n}\n.follow-section[data-v-19b32af0] {\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 20px;\n    letter-spacing: 2px;\n}\n.social-container[data-v-19b32af0] {\n   margin-top: 20px;\n}\n.social-container span[data-v-19b32af0]:nth-child(1) {\n   margin-right: 10px;\n}\na[data-v-19b32af0]:visited, alink[data-v-19b32af0]:visited {\n    color: blue;\n    text-decoration: none;\n}\na[data-v-19b32af0] {\n background-color: transparent;\n}\n\n", ""]);
+exports.push([module.i, "\n.cms-page-static[data-v-19b32af0] {\n    border: 2px solid black;\n    display: table;\n    height: 80%;\n    margin: 50px auto 200px;\n    position: relative;\n    text-align: justify;\n    width: 90%;\n}\n.cms-page-static .page-title[data-v-19b32af0] {\n    background-color: black;\n    color: white;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 45px;\n    padding: 20px;\n    text-align: left;\n    text-transform: uppercase;\n}\n.cms-page-static .block-wrapper[data-v-19b32af0] {\n    display: block;\n    position: relative;\n    min-height: 1px;\n    padding: 25px;\n    float: left;\n    text-align: justify;\n}\n.cms-page-static .block-wrapper .block-content[data-v-19b32af0]{\n    padding: 15px 0;\n    font-size: 25px;\n    text-align: justify;\n}\n.about-follow-container[data-v-19b32af0] {\n    display: block;\n    padding-bottom: 5%;\n    padding-top: 12%;\n}\n.follow-section[data-v-19b32af0] {\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 20px;\n    letter-spacing: 2px;\n}\n.social-container[data-v-19b32af0] {\n   margin-top: 20px;\n}\n.social-container span[data-v-19b32af0]:nth-child(1) {\n   margin-right: 10px;\n}\na[data-v-19b32af0]:visited, alink[data-v-19b32af0]:visited {\n    color: blue;\n    text-decoration: none;\n}\na[data-v-19b32af0] {\n background-color: transparent;\n}\n\n", ""]);
 
 // exports
 
@@ -7037,7 +7099,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.page-title[data-v-30632ef0] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 45px;\n    padding: 20px;\n    text-align: left;\n}\n.page-sub-title[data-v-30632ef0] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 25px;\n    padding: 20px;\n    text-align: left;\n}\n.card[data-v-30632ef0] {\n    width: auto;\n    height: 60vh;\n    padding: 10px;\n    margin: 10px;\n}\np[data-v-30632ef0] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 10px;\n}\n\n", ""]);
+exports.push([module.i, "\n.page-title[data-v-30632ef0] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 45px;\n    padding: 20px;\n    text-align: left;\n}\n.page-sub-title[data-v-30632ef0] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 25px;\n    padding: 20px;\n    text-align: left;\n}\n.card[data-v-30632ef0] {\n    width: auto;\n    height: 70vh;\n    padding: 10px;\n    margin: 10px;\n}\np[data-v-30632ef0] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 20px;\n}\n\n", ""]);
 
 // exports
 
@@ -7056,7 +7118,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.page-footer[data-v-61a7c374] {\n    background-color: #343A40;\n    color: #fff;\n    position: relative;\n    height: 80px;\n    margin-top: -80px;\n    clear: both;\n}\np[data-v-61a7c374] {\n    color:#fff;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 20px;\n    text-align: center;\n    align-items: center;\n}\n\n\n\n", ""]);
+exports.push([module.i, "\n.container[data-v-61a7c374] {\n    display: block;\n    background-color: #343A40;\n    width: 100vw;\n    box-sizing: border-box;\n}\n.brand-info[data-v-61a7c374] {\n    padding: 1.25rem;\n    position: relative;\n    color: grey;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    text-align: center;\n}\n\n\n\n\n", ""]);
 
 // exports
 
@@ -7075,7 +7137,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.page-title[data-v-faf41662] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 45px;\n    padding: 50px;\n    padding-bottom: 100px;\n    text-align: left;\n}\n.card[data-v-faf41662] {\n    width: auto;\n    height: auto;\n    padding: 10px;\n    margin: 10px;\n}\n\n\n\n\n", ""]);
+exports.push([module.i, "\n.page-title[data-v-faf41662] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 45px;\n    padding: 50px;\n    padding-bottom: 100px;\n    text-align: left;\n}\n.card[data-v-faf41662] {\n    width: auto;\n    height: 70vh;\n    padding: 10px;\n    margin: 10px;\n}\np[data-v-faf41662] {\n\n    color: black;\n    font-family: 'Avenir, Helvetica, Arial, sans-serif';\n    font-size: 20px;\n}\n\n\n\n", ""]);
 
 // exports
 
@@ -39006,7 +39068,7 @@ var staticRenderFns = [
           height: "100%",
           opacity: "1"
         },
-        attrs: { src: "image/HOME3.jpg" }
+        attrs: { src: "image/about.png" }
       }),
       _vm._v(" "),
       _c("hr"),
@@ -39098,14 +39160,18 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Lebron 17 James Gang")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$310")])
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "card-footer" })
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -39119,11 +39185,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Kobe 9 High KRM EXT QS Red October")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$350")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39138,11 +39210,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Kyrie 6 Enlightenment")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$210")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39157,11 +39235,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Paul George 3 Mamba Mentality")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$190")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39174,11 +39258,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Zoom KD 12 Black Cement")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$240")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39191,11 +39281,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Zoom KD 12 Black Cement")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$240")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ])
@@ -39212,11 +39308,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Adidas Harden Vol. 2 Maroon")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$270")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39229,11 +39331,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Adidas D Rose 7 Primeknit Solid Grey")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$260")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39246,13 +39354,19 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v(
                   "Adidas Crazy Explosive Primeknit Andrew Wiggins PE Timberwolves Away"
                 )
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$260")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ])
@@ -39271,11 +39385,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("New Balance OMN1A Sunset Pack Kawhi Leonard")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$240")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ])
@@ -39375,14 +39495,7 @@ var staticRenderFns = [
           _c("div", { staticClass: "carousel-item active" }, [
             _c("img", {
               staticClass: "d-block w-100 h-100",
-              attrs: { src: "image/HOME1.jpg", alt: "" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "carousel-item" }, [
-            _c("img", {
-              staticClass: "d-block w-100 h-100",
-              attrs: { src: "image/HOME2.jpg", alt: "" }
+              attrs: { src: "image/HOME5.jpg", alt: "" }
             })
           ]),
           _vm._v(" "),
@@ -39390,6 +39503,13 @@ var staticRenderFns = [
             _c("img", {
               staticClass: "d-block w-100 h-100",
               attrs: { src: "image/HOME3.jpg", alt: "" }
+            })
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "carousel-item" }, [
+            _c("img", {
+              staticClass: "d-block w-100 h-100",
+              attrs: { src: "image/HOME1.jpg", alt: "" }
             })
           ])
         ]),
@@ -39465,11 +39585,9 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "page-footer" }, [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "columns" }, [
-          _c("p", [_vm._v(" Copyright Hoops Academy")])
-        ])
+    return _c("div", { staticClass: "container" }, [
+      _c("div", { staticClass: "brand-info " }, [
+        _vm._v(" © 2020 Hoops Academy, Inc. All rights reserved\n\n    ")
       ])
     ])
   }
@@ -39504,12 +39622,15 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c(
       "nav",
-      { staticClass: "navbar navbar-expand-lg navbar-dark bg-dark" },
+      { staticClass: "navbar navbar-expand-sm navbar-dark bg-dark" },
       [
-        _c("img", {
-          staticClass: "d-inline-block align-top",
-          attrs: { src: "image/logo1.png" }
-        }),
+        _c("a", { staticClass: "navbar-brand", attrs: { href: "/" } }, [
+          _c("img", {
+            staticClass: "d-inline-block align-top",
+            staticStyle: { width: "100px height: 50px" },
+            attrs: { src: "image/logo1.png" }
+          })
+        ]),
         _vm._v(" "),
         _c(
           "button",
@@ -39536,18 +39657,13 @@ var staticRenderFns = [
           [
             _c("ul", { staticClass: "navbar-nav" }, [
               _c("li", { staticClass: "nav-item" }, [
-                _c("a", { staticClass: "nav-link", attrs: { href: "/" } }, [
-                  _vm._v("\n          Home\n          "),
-                  _c("span", { staticClass: "sr-only" })
-                ])
-              ]),
-              _vm._v(" "),
-              _c("li", { staticClass: "nav-item" }, [
                 _c(
                   "a",
                   { staticClass: "nav-link", attrs: { href: "/aboutUs" } },
                   [_vm._v("About Us")]
-                )
+                ),
+                _vm._v(" "),
+                _c("span", { staticClass: "sr-only" })
               ]),
               _vm._v(" "),
               _c("li", { staticClass: "nav-item dropdown" }, [
@@ -39639,11 +39755,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Air Jordan 1 Retro High OG Gym Red")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$380")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39658,11 +39780,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Air Jordan 1 Retro Mid Milan")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$380")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39677,11 +39805,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Air Jordan 1 Retro Mid SE Fearless Blue The Great")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$380")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39696,11 +39830,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Air Jordan Max Aura Bred")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$190")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39713,11 +39853,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Air Jordan 33 Low SE White Cement")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$230")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ]),
@@ -39730,11 +39876,17 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
-              _c("h5", { staticClass: "card-title" }, [
+              _c("h2", { staticClass: "card-title" }, [
                 _vm._v("Nike Air Jordan 4 Retro Winterized Royal Blue")
               ]),
               _vm._v(" "),
               _c("p", { staticClass: "card-text" }, [_vm._v("$325")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-footer" }, [
+              _c("p", { staticClass: "card-footer-name" }, [
+                _vm._v("Available on the following stores: ")
+              ])
             ])
           ])
         ])

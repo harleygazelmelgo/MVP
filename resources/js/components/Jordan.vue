@@ -6,8 +6,12 @@
                 <div class="card">
                     <img src="image/jordan1.png" class="card-img-top" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Nike Air Jordan 1 Retro High OG Gym Red</h5>
+                        <h2 class="card-title">Nike Air Jordan 1 Retro High OG Gym Red</h2>
                         <p class="card-text">$380</p>
+                    </div>
+                    <div class="card-footer">
+                        <p class="card-footer-name">Available on the following stores: </p>
+                        <!-- <a href="#">footlocker.com</a> -->
                     </div>
                 </div>
             </div>
@@ -18,8 +22,12 @@
                 <div class="card">
                     <img src="image/jordan2.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Nike Air Jordan 1 Retro Mid Milan</h5>
+                        <h2 class="card-title">Nike Air Jordan 1 Retro Mid Milan</h2>
                         <p class="card-text">$380</p>
+                    </div>
+                    <div class="card-footer">
+                        <p class="card-footer-name">Available on the following stores: </p>
+                        <!-- <a href="#">footlocker.com</a> -->
                     </div>
                 </div>
             </div>
@@ -30,8 +38,12 @@
                 <div class="card">
                     <img src="image/jordan3.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Nike Air Jordan 1 Retro Mid SE Fearless Blue The Great</h5>
+                        <h2 class="card-title">Nike Air Jordan 1 Retro Mid SE Fearless Blue The Great</h2>
                         <p class="card-text">$380</p>
+                    </div>
+                    <div class="card-footer">
+                        <p class="card-footer-name">Available on the following stores: </p>
+                        <!-- <a href="#">footlocker.com</a> -->
                     </div>
                 </div>
             </div>
@@ -42,8 +54,12 @@
                 <div class="card">
                     <img src="image/jordan4.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Nike Air Jordan Max Aura Bred</h5>
+                        <h2 class="card-title">Nike Air Jordan Max Aura Bred</h2>
                         <p class="card-text">$190</p>
+                    </div>
+                    <div class="card-footer">
+                        <p class="card-footer-name">Available on the following stores: </p>
+                        <!-- <a href="#">footlocker.com</a> -->
                     </div>
                 </div>
             </div>
@@ -52,8 +68,12 @@
                 <div class="card">
                     <img src="image/jordan5.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Nike Air Jordan 33 Low SE White Cement</h5>
+                        <h2 class="card-title">Nike Air Jordan 33 Low SE White Cement</h2>
                         <p class="card-text">$230</p>
+                    </div>
+                    <div class="card-footer">
+                        <p class="card-footer-name">Available on the following stores: </p>
+                        <!-- <a href="#">footlocker.com</a> -->
                     </div>
                 </div>
             </div>
@@ -63,8 +83,12 @@
                 <div class="card">
                     <img src="image/jordan6.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Nike Air Jordan 4 Retro Winterized Royal Blue</h5>
+                        <h2 class="card-title">Nike Air Jordan 4 Retro Winterized Royal Blue</h2>
                         <p class="card-text">$325</p>
+                    </div>
+                    <div class="card-footer">
+                        <p class="card-footer-name">Available on the following stores: </p>
+                        <!-- <a href="#">footlocker.com</a> -->
                     </div>
                 </div>
             </div>
@@ -100,11 +124,18 @@ export default {
 
 .card {
     width: auto;
-    height: auto;
+    height: 70vh;
     padding: 10px;
     margin: 10px;
+
 }
 
+p {
+
+    color: black;
+    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-size: 20px;
+}
 
 
 

@@ -1,6 +1,8 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <img class="d-inline-block align-top" src="image/logo1.png" />
+  <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <a class="navbar-brand" href="/">
+        <img class="d-inline-block align-top" src="image/logo1.png" style="width:100px height: 50px" />
+    </a>
     <button
       class="navbar-toggler"
       type="button"
@@ -15,15 +17,16 @@
 
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav" >
-        <li class="nav-item" >
+        <!-- <li class="nav-item" >
           <a class="nav-link" href="/" >
             Home
             <span class="sr-only"></span>
           </a>
-        </li>
+        </li> -->
 
         <li class="nav-item">
           <a class="nav-link" href="/aboutUs">About Us</a>
+           <span class="sr-only"></span>
         </li>
 
         <li class="nav-item dropdown">
