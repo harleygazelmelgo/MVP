@@ -17,6 +17,7 @@ Vue.component('Footer', require('./components/Footer.vue').default);
 Vue.component('AboutRoot', require('./components/AboutRoot.vue').default);
 Vue.component('BasketballRoot', require('./components/BasketballRoot.vue').default);
 Vue.component('JordanRoot', require('./components/JordanRoot.vue').default);
+Vue.component('loginPageRoot', require('./components/loginPageRoot.vue').default);
 
 
 

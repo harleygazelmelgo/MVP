@@ -6,12 +6,14 @@
                 <div class="card">
                     <img src="image/jordan1.png" class="card-img-top" alt="">
                     <div class="card-body">
-                        <h2 class="card-title">Nike Air Jordan 1 Retro High OG Gym Red</h2>
+                        <h3 class="card-title">Nike Air Jordan 1 Retro High OG Gym Red</h3>
                         <p class="card-text">$380</p>
                     </div>
                     <div class="card-footer">
-                        <p class="card-footer-name">Available on the following stores: </p>
-                        <!-- <a href="#">footlocker.com</a> -->
+                        <p class="card-footer-name">Available on the following online stores </p>
+                        <a class="d-inline-block align-top" href="https://www.footlocker.ca/"  >footlocker </a>
+                        <a class="d-inline-block align-top" href="https://stockx.com/"  >stockx </a>
+                        <a class="d-inline-block align-top" href="https://basketzone.net/" >basketzone</a>
                     </div>
                 </div>
             </div>
@@ -22,12 +24,14 @@
                 <div class="card">
                     <img src="image/jordan2.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h2 class="card-title">Nike Air Jordan 1 Retro Mid Milan</h2>
+                        <h3 class="card-title">Nike Air Jordan 1 Retro Mid Milan</h3>
                         <p class="card-text">$380</p>
                     </div>
                     <div class="card-footer">
-                        <p class="card-footer-name">Available on the following stores: </p>
-                        <!-- <a href="#">footlocker.com</a> -->
+                        <p class="card-footer-name">Available on the following online stores </p>
+                        <a class="d-inline-block align-top" href="https://www.footlocker.ca/"  >footlocker </a>
+                        <a class="d-inline-block align-top" href="https://stockx.com/"  >stockx </a>
+                        <a class="d-inline-block align-top" href="https://basketzone.net/" >basketzone</a>
                     </div>
                 </div>
             </div>
@@ -38,12 +42,14 @@
                 <div class="card">
                     <img src="image/jordan3.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h2 class="card-title">Nike Air Jordan 1 Retro Mid SE Fearless Blue The Great</h2>
+                        <h3 class="card-title">Nike Air Jordan 1 Retro Mid SE Fearless Blue The Great</h3>
                         <p class="card-text">$380</p>
                     </div>
                     <div class="card-footer">
-                        <p class="card-footer-name">Available on the following stores: </p>
-                        <!-- <a href="#">footlocker.com</a> -->
+                        <p class="card-footer-name">Available on the following online stores </p>
+                        <a class="d-inline-block align-top" href="https://www.footlocker.ca/"  >footlocker </a>
+                        <a class="d-inline-block align-top" href="https://stockx.com/"  >stockx </a>
+                        <a class="d-inline-block align-top" href="https://basketzone.net/" >basketzone</a>
                     </div>
                 </div>
             </div>
@@ -54,12 +60,14 @@
                 <div class="card">
                     <img src="image/jordan4.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h2 class="card-title">Nike Air Jordan Max Aura Bred</h2>
+                        <h3 class="card-title">Nike Air Jordan Max Aura Bred</h3>
                         <p class="card-text">$190</p>
                     </div>
                     <div class="card-footer">
-                        <p class="card-footer-name">Available on the following stores: </p>
-                        <!-- <a href="#">footlocker.com</a> -->
+                        <p class="card-footer-name">Available on the following online stores </p>
+                        <a class="d-inline-block align-top" href="https://www.footlocker.ca/"  >footlocker </a>
+                        <a class="d-inline-block align-top" href="https://stockx.com/"  >stockx </a>
+                        <a class="d-inline-block align-top" href="https://basketzone.net/" >basketzone</a>
                     </div>
                 </div>
             </div>
@@ -68,12 +76,14 @@
                 <div class="card">
                     <img src="image/jordan5.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h2 class="card-title">Nike Air Jordan 33 Low SE White Cement</h2>
+                        <h3 class="card-title">Nike Air Jordan 33 Low SE White Cement</h3>
                         <p class="card-text">$230</p>
                     </div>
                     <div class="card-footer">
-                        <p class="card-footer-name">Available on the following stores: </p>
-                        <!-- <a href="#">footlocker.com</a> -->
+                        <p class="card-footer-name">Available on the following online stores </p>
+                        <a class="d-inline-block align-top" href="https://www.footlocker.ca/"  >footlocker </a>
+                        <a class="d-inline-block align-top" href="https://stockx.com/"  >stockx </a>
+                        <a class="d-inline-block align-top" href="https://basketzone.net/" >basketzone</a>
                     </div>
                 </div>
             </div>
@@ -83,12 +93,14 @@
                 <div class="card">
                     <img src="image/jordan6.png"  class="card-img-top" alt="">
                     <div class="card-body">
-                        <h2 class="card-title">Nike Air Jordan 4 Retro Winterized Royal Blue</h2>
+                        <h3 class="card-title">Nike Air Jordan 4 Retro Winterized Royal Blue</h3>
                         <p class="card-text">$325</p>
                     </div>
                     <div class="card-footer">
-                        <p class="card-footer-name">Available on the following stores: </p>
-                        <!-- <a href="#">footlocker.com</a> -->
+                        <p class="card-footer-name">Available on the following online stores </p>
+                        <a class="d-inline-block align-top" href="https://www.footlocker.ca/"  >footlocker </a>
+                        <a class="d-inline-block align-top" href="https://stockx.com/"  >stockx </a>
+                        <a class="d-inline-block align-top" href="https://basketzone.net/" >basketzone</a>
                     </div>
                 </div>
             </div>
@@ -114,25 +126,50 @@ export default {
     color: black;
     font-family: 'Avenir, Helvetica, Arial, sans-serif';
     font-size: 45px;
-    padding: 50px;
-    padding-bottom: 100px;
+    padding: 20px;
     text-align: left;
-
 
 
 }
 
+.page-sub-title {
+
+    color: black;
+    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-size: 25px;
+    padding: 20px;
+    text-align: left;
+
+
+}
+
+
+
 .card {
-    width: auto;
-    height: 70vh;
+    max-width: 100%;
+    height: auto;
     padding: 10px;
-    margin: 10px;
+    margin: 5px auto;
+
+}
+
+.card-footer{
+    height: 125px;
+}
+
+img {
+    vertical-align: middle;
 
 }
 
 p {
 
     color: black;
+    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-size: 20px;
+}
+
+a {
     font-family: 'Avenir, Helvetica, Arial, sans-serif';
     font-size: 20px;
 }

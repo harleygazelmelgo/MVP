@@ -27,6 +27,8 @@ Route::get('/basketball', 'ProductController@bball');
 
 Route::get('/jordan', 'ProductController@j23');
 
-Route::get('/adminLogin', 'AdminLoginController@login');
+Route::get('/loginPage', 'AdminLoginController@show');
+
+Route::get('/adminPage', 'AdminLoginController@login');
 
 

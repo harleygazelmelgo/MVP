@@ -25,7 +25,7 @@
         </li> -->
 
         <li class="nav-item">
-          <a class="nav-link" href="/aboutUs">About Us</a>
+          <a class="nav-link" href="/aboutUs" >About Us</a>
            <span class="sr-only"></span>
         </li>
 
@@ -59,6 +59,10 @@ export default {
 
 <style scoped>
 
+a {
+    color: #DFDFDF;
+    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+}
 
 
 </style>

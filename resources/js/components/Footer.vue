@@ -1,6 +1,6 @@
 <template>
-    <div class="container">
-        <div class="brand-info "> © 2020 Hoops Academy, Inc. All rights reserved
+    <div >
+        <div class="footer"> © 2020 Hoops Academy, Inc. All rights reserved
 
         </div>
     </div>
@@ -18,25 +18,20 @@ export default {
 
 <style scoped>
 
-.container {
+.footer {
     display: block;
     background-color: #343A40;
-    width: 100vw;
+    width: 100%;
     box-sizing: border-box;
-
-
-
-
-
-}
-
-.brand-info {
     padding: 1.25rem;
     position: relative;
-    color: grey;
+    color: #DFDFDF;
     font-family: 'Avenir, Helvetica, Arial, sans-serif';
     text-align: center;
+
 }
+
+
 
 
 

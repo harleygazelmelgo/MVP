@@ -1,6 +1,6 @@
 <template>
 <div class="block">
-    <img src="image/about.png" style="margin-top: 10px; background-size: cover; background-position: center top; width: 100%; height:100%; opacity: 1">
+    <img src="image/hm.jpg" style="margin-top: 10px; background-size: cover; background-position: center top; width: 100%; height:100%; opacity: 1">
 
     <hr>
         <div id="about" class="cms-page-static">
@@ -14,13 +14,13 @@
                     <div class="follow-section">FOLLOW @HOOPS_ACADEMY</div>
                     <div class="social-container">
                         <span class="social-icon-spacing">
-                            <a class="view-facebook" href="https://wwww.facebook.com" target="_blank"></a>
-                            <img src="image/fb.png" />
+                            <a class="view-facebook" href="https://wwww.facebook.com" > <img src="image/fb.png" /></a>
+
                         </span>
 
                         <span class="social-icon-spacing">
-                            <a class="view-twitter" href="https://wwww.twitter.com" target="_blank"></a>
-                            <img src="image/twit.png" />
+                            <a class="view-twitter" href="https://www.twitter.com" ><img src="image/twit.png" /></a>
+
                         </span>
                     </div>
                 </div>
@@ -56,7 +56,7 @@ export default {
     background-color: black;
     color: white;
     font-family: 'Avenir, Helvetica, Arial, sans-serif';
-    font-size: 45px;
+    font-size: 35px;
     padding: 20px;
     text-align: left;
     text-transform: uppercase;
@@ -101,10 +101,6 @@ export default {
    margin-right: 10px;
 }
 
-a:visited, alink:visited {
-    color: blue;
-    text-decoration: none;
-}
 
 a {
  background-color: transparent;
