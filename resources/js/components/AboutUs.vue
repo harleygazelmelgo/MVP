@@ -1,6 +1,6 @@
 <template>
 <div class="block">
-    <img src="image/hm.jpg" style="margin-top: 10px; background-size: cover; background-position: center top; width: 100%; height:100%; opacity: 1">
+    <img src="image/hm.jpg" class="responsive" style="margin-top: 10px; background-size: cover; background-position: center top; width: 100%; height:100%; opacity: 1">
 
     <hr>
         <div id="about" class="cms-page-static">
@@ -75,7 +75,7 @@ export default {
 
 .cms-page-static .block-wrapper .block-content{
     padding: 15px 0;
-    font-size: 25px;
+    font-size: 15px;
     text-align: justify;
 
 }
@@ -104,6 +104,11 @@ export default {
 
 a {
  background-color: transparent;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
 }
 
 </style>

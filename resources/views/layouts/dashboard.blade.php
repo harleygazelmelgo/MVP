@@ -2,9 +2,8 @@
 
 @section('content')
 
-<login-page-root />
-<loginPage />
-
+<dashboard-root />
+<dashboard />
 
 
 @endsection

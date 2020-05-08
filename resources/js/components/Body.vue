@@ -40,16 +40,18 @@ export default {};
     min-height: 80vh;
 }
 
-#carouselExampleFade {
+/* #carousel-item {
     margin-top: 50px;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-right: 10px;
     margin-bottom: 100px;
-}
+} */
 
 .d-block {
-    width: 95vw;
+    width: 90vw;
     height: 70vh;
+    margin: 50px auto 100px auto;
+
 }
 
 </style>

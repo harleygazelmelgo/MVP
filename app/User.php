@@ -6,9 +6,18 @@ use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 
+use Auth;
+
 class User extends Authenticatable
 {
     use Notifiable;
+
+    protected $table = 'users';
+
+    function products() {
+        return $this->hasMany('App\Products');
+    }
+
 
     /**
      * The attributes that are mass assignable.
@@ -16,7 +25,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password',
+        'email', 'password',
     ];
 
     /**

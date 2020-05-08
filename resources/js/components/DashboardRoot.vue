@@ -1,8 +1,9 @@
 <template>
   <div id='app' >
     <Header />
-    <loginPage />
+    <Dashboard />
     <Footer />
+
 
   </div>
 </template>
@@ -10,17 +11,19 @@
 <script>
 
 import Header from '../components/Header.vue'
-import loginPage from '../components/loginPage.vue'
+import Dashboard from '../components/Dashboard.vue'
 import Footer from '../components/Footer.vue'
 
 
 
+
 export default {
-  name: 'JordanRoot',
+  name: 'DashboardRoot',
   components: {
     Header,
-    loginPage,
+    Dashboard,
     Footer,
+
 
 
   },

@@ -4,7 +4,9 @@
         <div class="row row-cols-1 row-cols-md-3">
             <div class="col mb-6">
                 <div class="card">
-                    <img src="image/jordan1.png" class="card-img-top" alt="">
+                    <a target="_blank" href="image/jordan1.png" >
+                        <img src="image/jordan1.png" class="card-img-top" alt="j1" >
+                    </a>
                     <div class="card-body">
                         <h3 class="card-title">Nike Air Jordan 1 Retro High OG Gym Red</h3>
                         <p class="card-text">$380</p>
@@ -159,7 +161,14 @@ export default {
 
 img {
     vertical-align: middle;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
 
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
 p {

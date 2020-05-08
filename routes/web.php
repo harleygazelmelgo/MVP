@@ -17,18 +17,29 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-// Auth::routes();
-
-// Route::get('/home', 'HomeController@index')->name('home');
+Auth::routes(['register' => false]);
 
 Route::get('/aboutUs', 'AboutUsController@about');
 
-Route::get('/basketball', 'ProductController@bball');
+Route::get('/basketball', 'ProductController@showBasketball');
 
-Route::get('/jordan', 'ProductController@j23');
+Route::get('/jordan', 'ProductController@showJordan');
 
-Route::get('/loginPage', 'AdminLoginController@show');
+Route::get('/home', function () {
+    return redirect ('/dashboard');
+} );
 
-Route::get('/adminPage', 'AdminLoginController@login');
+
+Route::get('/dashboard', 'AdminLoginController@newItems');
 
 
+
+
+
+
+
+// Route::get('/home', 'HomeController@index')->name('home');
+
+// Route::get('/admin', 'AdminLoginController@login');
+
+// Route::get('/dashboard', 'AdminLoginController@confirmLogin');

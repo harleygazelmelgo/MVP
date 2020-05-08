@@ -6,12 +6,20 @@ use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
-    public function bball() {
+    public function showBasketball() {
         return view ('layouts.basketball');
     }
 
 
-    public function j23() {
+    public function showJordan() {
         return view ('layouts.jordan');
     }
+
+
+
+
+
+
+
+
 }

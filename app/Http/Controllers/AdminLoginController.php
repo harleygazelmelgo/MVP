@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Products;
 use Illuminate\Http\Request;
 
 use Auth;
@@ -9,26 +10,20 @@ use Auth;
 class AdminLoginController extends Controller
 {
 
-    public function show() {
-        return view ('layouts.loginPage');
-    }
+    public function newItems() {
 
-    public function login() {
-        if(Auth::user()->id==1) {
-            return view ('layouts.adminPage');
+        return view ('layouts.dashboard');
+
         }
 
-        // return view ('layouts.loginPage');
-
-    }
-
-    public function confirmLogin() {
-        if(Auth::check()) {
-            $isLoggedin = true;
-            return view ('layouts.adminPage');
-        }
-
-        return view ('layouts.loginPage');
-    }
 
 }
+
+
+
+
+
+
+
+
+
