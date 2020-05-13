@@ -55,7 +55,8 @@ export default {
 .cms-page-static .page-title {
     background-color: black;
     color: white;
-    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 45px;
     font-size: 35px;
     padding: 20px;
     text-align: left;
@@ -87,7 +88,8 @@ export default {
 }
 
 .follow-section {
-    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 45px;
     font-size: 20px;
     letter-spacing: 2px;
 

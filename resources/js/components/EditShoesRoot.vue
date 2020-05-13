@@ -1,9 +1,8 @@
 <template>
   <div id='app' >
     <Header />
-    <Dashboard />
+    <EditShoes />
     <Footer />
-
 
   </div>
 </template>
@@ -11,17 +10,17 @@
 <script>
 
 import Header from '../components/Header.vue'
-import Dashboard from '../components/Dashboard.vue'
+import EditShoes from '../components/EditShoes.vue'
 import Footer from '../components/Footer.vue'
 
 
 
 
 export default {
-  name: 'DashboardRoot',
+  name: 'EditShoesRoot',
   components: {
     Header,
-    Dashboard,
+    EditShoes,
     Footer,
 
 
@@ -32,12 +31,4 @@ export default {
   }
 }
 </script>
-
-<style  scoped>
-
-
-
-</style>>
-
-
 

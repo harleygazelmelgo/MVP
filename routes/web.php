@@ -31,10 +31,14 @@ Route::get('/home', function () {
 
 
 Route::get('/dashboard', 'AdminLoginController@newItems');
+Route::post('/uploadProducts', 'ProductController@storeItems');
+Route::post('/getShoes', 'ProductController@getShoes');
 
 
+Route::get('/delShoes', 'ProductController@delShoes');
 
 
+Route::get('/editShoes', 'ProductController@editShoes');
 
 
 

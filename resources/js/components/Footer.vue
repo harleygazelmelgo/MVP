@@ -26,8 +26,9 @@ export default {
     padding: 1.25rem;
     position: relative;
     color: #DFDFDF;
-    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     text-align: center;
+    font-size: 0.85rem;
 
 }
 

@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="/">
         <img class="d-inline-block align-top" src="image/logo1.png" style="width:100px height: 50px" />
     </a>
@@ -17,13 +17,6 @@
 
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav" >
-        <!-- <li class="nav-item" >
-          <a class="nav-link" href="/" >
-            Home
-            <span class="sr-only"></span>
-          </a>
-        </li> -->
-
         <li class="nav-item">
           <a class="nav-link" href="/aboutUs" >About Us</a>
            <span class="sr-only"></span>
@@ -61,7 +54,7 @@ export default {
 
 a {
     color: #DFDFDF;
-    font-family: 'Avenir, Helvetica, Arial, sans-serif';
+    font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 
 

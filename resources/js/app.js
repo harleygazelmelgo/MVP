@@ -17,6 +17,9 @@ Vue.component('AboutRoot', require('./components/AboutRoot.vue').default);
 Vue.component('BasketballRoot', require('./components/BasketballRoot.vue').default);
 Vue.component('JordanRoot', require('./components/JordanRoot.vue').default);
 Vue.component('DashboardRoot', require('./components/DashboardRoot.vue').default);
+Vue.component('EditShoesRoot', require('./components/EditShoesRoot.vue').default);
+
+// Vue.component('DeleteShoesRoot', require('./components/DeleteShoesRoot.vue').default);
 
 
 
