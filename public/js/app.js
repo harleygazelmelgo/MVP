@@ -39594,24 +39594,6 @@ var render = function() {
   return _c("div", { staticClass: "container bodycontent" }, [
     _c("br"),
     _vm._v(" "),
-    _c(
-      "a",
-      {
-        staticClass: "btn btn-primary",
-        attrs: { href: "/editShoes", role: "button" }
-      },
-      [_vm._v("Edit Shoes ")]
-    ),
-    _vm._v(" "),
-    _c(
-      "a",
-      {
-        staticClass: "btn btn-primary",
-        attrs: { href: "/delShoes", role: "button" }
-      },
-      [_vm._v("Delete Shoes ")]
-    ),
-    _vm._v(" "),
     _c("br"),
     _vm._v(" "),
     _c("div", { staticClass: "row justify-content-center" }, [
@@ -39978,7 +39960,7 @@ var staticRenderFns = [
             attrs: { id: "navbarNavDropdown" }
           },
           [
-            _c("ul", { staticClass: "navbar-nav" }, [
+            _c("ul", { staticClass: "navbar-nav ml-auto" }, [
               _c("li", { staticClass: "nav-item" }, [
                 _c(
                   "a",

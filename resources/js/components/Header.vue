@@ -16,7 +16,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav" >
+      <ul class="navbar-nav ml-auto" >
         <li class="nav-item">
           <a class="nav-link" href="/aboutUs" >About Us</a>
            <span class="sr-only"></span>

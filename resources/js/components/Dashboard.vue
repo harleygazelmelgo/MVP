@@ -1,8 +1,8 @@
 <template>
    <div class="container bodycontent">
        <br>
-        <a class="btn btn-primary" href="/editShoes" role="button">Edit Shoes </a>
-        <a class="btn btn-primary" href="/delShoes" role="button">Delete Shoes </a>
+        <!-- <a class="btn btn-primary" href="/editShoes" role="button">Edit Shoes </a>
+        <a class="btn btn-primary" href="/delShoes" role="button">Delete Shoes </a> -->
         <br>
         <div class="row justify-content-center">
             <div class="col-md-8">
